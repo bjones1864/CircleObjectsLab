@@ -1,0 +1,15 @@
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.exe
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.deps.json
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.runtimeconfig.json
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.dll
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\bin\Debug\net8.0\CircleObjectsLab.pdb
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.AssemblyInfoInputs.cache
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.AssemblyInfo.cs
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.csproj.CoreCompileInputs.cache
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.sourcelink.json
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.dll
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\refint\CircleObjectsLab.dll
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.pdb
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\CircleObjectsLab.genruntimeconfig.cache
+C:\Users\miwol\github-classroom\assessment-2b-bjones1864\CircleObjectsLab\CircleObjectsLab\obj\Debug\net8.0\ref\CircleObjectsLab.dll
